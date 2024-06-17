@@ -2,6 +2,12 @@
 
 Proyecto práctico Implementación del patrón CQRS usando MediatR.
 
+## **Tabla de Contenidos**
+1. [Notas de la Versión](https://pages.github.com/).
+2. Requisitos
+3. Documentación
+
+
 ## **Notas de la Versión**
 
 Esta versión implementa 5 Endpoints:
