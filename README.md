@@ -3,10 +3,10 @@
 Proyecto práctico Implementación del patrón CQRS usando MediatR.
 
 ## **Tabla de Contenidos**
-1. [Notas de la Versión](https://github.com/CrLara88/CQRS.Practico/blob/main/README.md#notas-de-la-versi%C3%B3n)
-2. Requisitos
-3. Documentación
 
+1. [Notas de la Versión](https://github.com/CrLara88/CQRS.Practico/blob/main/README.md#notas-de-la-versi%C3%B3n)
+2. [Requisitos](https://github.com/CrLara88/CQRS.Practico/blob/main/README.md#requisitos)
+3. [Documentación](https://github.com/CrLara88/CQRS.Practico/blob/main/README.md#documentaci%C3%B3n)
 
 ## **Notas de la Versión**
 
