@@ -26,4 +26,4 @@ Esta versión implementa 5 Endpoints:
 .NET Core 6.0 o superior.
 
 ## **Documentación**
-El proyecto incluye documentación con Swagger, la cual estará accesible una vez clonado el repositorio, compilada y ejecutada la solución.
+Documentación disponible a través de Swagger, luego de obtener, compilar y ejecutar el proyecto.
