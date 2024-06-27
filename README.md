@@ -12,15 +12,15 @@ Proyecto práctico Implementación del patrón CQRS usando MediatR.
 
 Esta versión implementa 5 Endpoints:
 
-**Método GET (ALL)**: Permite la recuperación de todos los registros existentes.
+**GET (ALL)**: Permite la recuperación de todos los registros existentes.
 
-**Método POST**: Permite la creación de un nuevo registro.
+**POST**: Permite la creación de un nuevo registro.
 
-**Método PUT**: Permite actualizar un registro en base a su ID.
+**PUT**: Permite actualizar un registro en base a su ID.
 
-**Método DELETE**: Permite eliminar un registro en base a su ID.
+**DELETE**: Permite eliminar un registro en base a su ID.
 
-**Método GET**: Permite la recuperación de un registro por su respectivo ID.
+**GET**: Permite la recuperación de un registro por su respectivo ID.
 
 ## **Requerimientos**
 .NET Core 6.0 o superior.
